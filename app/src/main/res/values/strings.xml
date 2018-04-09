@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">type-A-talk</string>
+    <string name="tap_to_open_mic">Start talking</string>
+    <string name="speak">Start speaking</string>
+</resources>
